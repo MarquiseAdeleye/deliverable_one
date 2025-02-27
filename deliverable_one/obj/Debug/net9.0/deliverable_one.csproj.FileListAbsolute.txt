@@ -12,3 +12,4 @@
 /Users/marquiseadeleye/Desktop/grand-circus/deliverable_one/deliverable_one/obj/Debug/net9.0/deliverable_one.pdb
 /Users/marquiseadeleye/Desktop/grand-circus/deliverable_one/deliverable_one/obj/Debug/net9.0/deliverable_one.genruntimeconfig.cache
 /Users/marquiseadeleye/Desktop/grand-circus/deliverable_one/deliverable_one/obj/Debug/net9.0/ref/deliverable_one.dll
+/Users/marquiseadeleye/Desktop/grand-circus/deliverable_one/deliverable_one/obj/Debug/net9.0/deliverable_one.sourcelink.json

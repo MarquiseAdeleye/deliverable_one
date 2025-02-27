@@ -83,9 +83,8 @@ public class Program
 
         }
         Console.WriteLine("Thank you for filling out the values. Here’s what needs to be restocked.");
-        if (rSoda <= soda || rChips <= chips || rCandy <= candy)
+        if (rSoda <= 40 || rChips <= 20 || rCandy <= 40)
         {
-            
             Console.WriteLine(restock + " needs to be restocked.");
         }
         else
