@@ -1,0 +1,14 @@
+/Users/marquiseadeleye/Desktop/grand-circus/deliverable_one/deliverable_one/bin/Debug/net9.0/deliverable_one
+/Users/marquiseadeleye/Desktop/grand-circus/deliverable_one/deliverable_one/bin/Debug/net9.0/deliverable_one.deps.json
+/Users/marquiseadeleye/Desktop/grand-circus/deliverable_one/deliverable_one/bin/Debug/net9.0/deliverable_one.runtimeconfig.json
+/Users/marquiseadeleye/Desktop/grand-circus/deliverable_one/deliverable_one/bin/Debug/net9.0/deliverable_one.dll
+/Users/marquiseadeleye/Desktop/grand-circus/deliverable_one/deliverable_one/bin/Debug/net9.0/deliverable_one.pdb
+/Users/marquiseadeleye/Desktop/grand-circus/deliverable_one/deliverable_one/obj/Debug/net9.0/deliverable_one.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marquiseadeleye/Desktop/grand-circus/deliverable_one/deliverable_one/obj/Debug/net9.0/deliverable_one.AssemblyInfoInputs.cache
+/Users/marquiseadeleye/Desktop/grand-circus/deliverable_one/deliverable_one/obj/Debug/net9.0/deliverable_one.AssemblyInfo.cs
+/Users/marquiseadeleye/Desktop/grand-circus/deliverable_one/deliverable_one/obj/Debug/net9.0/deliverable_one.csproj.CoreCompileInputs.cache
+/Users/marquiseadeleye/Desktop/grand-circus/deliverable_one/deliverable_one/obj/Debug/net9.0/deliverable_one.dll
+/Users/marquiseadeleye/Desktop/grand-circus/deliverable_one/deliverable_one/obj/Debug/net9.0/refint/deliverable_one.dll
+/Users/marquiseadeleye/Desktop/grand-circus/deliverable_one/deliverable_one/obj/Debug/net9.0/deliverable_one.pdb
+/Users/marquiseadeleye/Desktop/grand-circus/deliverable_one/deliverable_one/obj/Debug/net9.0/deliverable_one.genruntimeconfig.cache
+/Users/marquiseadeleye/Desktop/grand-circus/deliverable_one/deliverable_one/obj/Debug/net9.0/ref/deliverable_one.dll
